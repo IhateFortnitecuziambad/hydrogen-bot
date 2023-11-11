@@ -34,4 +34,4 @@ for (const file of eventFiles) {
   }
 }
 
-client.login("MTE2OTI5MjA2NDYzOTQzMDY3Nw.GtsJYy.6I1VS7Kxp3FTkB3oCMdAtw2PEesLcxOoNoYvJ8");
+client.login("MTE2OTI5MjA2NDYzOTQzMDY3Nw.GRapik.VtcKQt7rzz1alFnKAccJxYh03sMC_FynmcCMzU");
