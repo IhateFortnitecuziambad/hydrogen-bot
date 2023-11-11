@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "theinsidedevs-hydrogen",
+  "private_key_id": "15b3a5f11e23daba3974bb87e8e1e546d48adf53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjZ1d7hxniq9gs\nSJsan4PVK/ZpNIxsnujv8SxjnNhTLrS3x/FJ88BmLH3fc/2RMG/tMt+X9HsDwRIf\nZ5VA+KLnREet3H5FZd+zQca2Iuq3fT3VrBCiebWxq9z9aB+gtuuxHU75TGO+G36n\nwvPIs71ClCt3OaLpu8Ok5FOB7iNW185ctSun46MGkwRl9whtedfqdKnxgrSWBffD\nAW21uaQKD/BlCM6khGM5aab0SZ/RPsL4FtXxDSbutGy/Wv3lSoYXf26pWWWvyeQS\nQMg+mxpbK1Gu4PPWgdHMJxRv1FKGNZjcYXsnstHe1bqW5aNhCSOk1N8yYabzAq8b\nqtGD6ZNXAgMBAAECggEAEiOkfc0ECpRh6lO2/kOqdMRMo+MLhH/p3Xc5GY+2+G5U\nVLM/6Fc831Q94id9cCm989zIAHYBo1tbl7e1LHk+KAEb+p6zpSjVfutd729k66gI\n2P91quWB0cn/bGie2pIHcO8BOq+WO+GI6Sw1h//rtouH1WXP50xmnxjmHwog4C9b\nhLrg+ksdFAzrwfTGND4MiXybtnpIH+e63GGvSJXXyuoTRlk/IMPriG+MNzeEz/Fb\nrx+VeDhgFHFzOBX22+vVXckyv4FcoBEU//0tfzOoTpi6slCRecl5eXbXZHdjoQz7\nX3Src1lrYa2iFhNr8aamdlNThFIoAEMhO71p5QBwoQKBgQD5fZH3s/g6AjULJ7qw\nQrIbEm4iVyqtLu2d9eaChImq52YRGb9sAgDMxsg4IG/+yIZCqyqamkdDVn54OqKr\n8UKMpLHyQZDz8RceuxXcTp8bbf0xnoRqi04XYJxfhe8OiEincuyf7p6QqfnXOMoq\nhVMtwWUbSdOtAkzaoMQBWtwHcQKBgQDpVj8MdUMEHTHtFpORn+vCBlge4lBkiPDP\nhShSAAPdeqc39Vndaz2YOdZnMyBju79b5Fu1PEV5c8zInWiItSLDa5e9TjLmMQJY\nHfpiecuayUiBfwVttMSaGk0TlzY9yKYP9tkFd44fQ+y6p6sZzbFJVbokdlsQbgTH\nQ7aQDegzRwKBgQDPL1BAe9vvkFWsZdnK9hgiEzQSoIB4QThirQo36QjKPE+uc8tb\nTm6Ln6g1s/pNgwi75JkEuonjibiM72SXlUrGsR51J63QZq3kf0iwIzpN9REGW7Vr\nJTQ8haZWTUswrkxngjCuv+I+EGnCKQ76MK3amXf1KWH3kqlwBYG//kwqgQKBgFy8\nwXwzErqM2+3t3iKvm6TWnqlPq0H5xzPDKX5FsUOSXul3owrEd4uL2THU+ReKZAii\nnuxOExKtOoO1Q/mpfDKNDZbYgJRKgDMDXyNKYuiW/TEyibbLdKQGtgGGRLGTkKSh\nqClrFdpJRcn9n5w2yzJpVvzs6U6DW3TS7bkdPd87AoGBAJ7110CPL94Uy5ciS4lD\nliYeNogjUtxUH551TDqmyWXRR0SUh1KLanja/RuTEYL/ZFc+NuWFxg9JxtF6HBH6\nAnCJZjterP9mZXGK0UMEZjy1h927KC608XWdv+pAWg5NogY/l7nTTC2ZveACON//\nQGWG8BrTep7EKkOHbZi3F+og\n-----END PRIVATE KEY-----\n",
+  "client_email": "hydrogen-bot@theinsidedevs-hydrogen.iam.gserviceaccount.com",
+  "client_id": "104261091789421518521",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hydrogen-bot%40theinsidedevs-hydrogen.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
