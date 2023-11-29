@@ -756,6 +756,5 @@ const {
     }
   });
   
-  client.login(
-    "MTE2OTI5MjA2NDYzOTQzMDY3Nw.GnO5X8.xRVVUeZWJjM6cea5jvZTgwTau_eyuRkMUR9dpM"
+  client.login("secret")
   );
